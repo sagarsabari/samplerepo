@@ -1,2 +1,2 @@
 print("hello world!")
-Print("Chek this statement")
+print("Chek this statement")
